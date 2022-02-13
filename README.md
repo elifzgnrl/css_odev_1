@@ -34,7 +34,7 @@ image dosyalarını barındırıyor.
 
 ## İletişim
 
-![](img/İletişim Ekran Alıntısı.PNG)  
+![](img/iletisimEkranAlintisi.PNG)  
 
 # Installation
 
