@@ -30,7 +30,7 @@ image dosyalarını barındırıyor.
 
 ## Hakkımızda
 
-![](img/Hakkımızda Ekran Alıntısı.PNG)
+![](img/hakkimizdaEkranAlintisi.PNG)
 
 ## İletişim
 
