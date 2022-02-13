@@ -26,7 +26,7 @@ image dosyalarını barındırıyor.
 
 Öncelikle projeyi klonlayın. 
 
-[https://github.com/elifzgnrl/kodluyoruz-odev3](https://github.com/elifzgnrl/kodluyoruz-odev3)
+[https://github.com/elifzgnrl/css_odev_1](https://github.com/elifzgnrl/css_odev_1)
   
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
