@@ -1,0 +1,29 @@
+.header-picture {
+    height: 7.5%;
+    width: 7.5%;
+    margin: 3% 1% 1% 33%;
+    padding: 1%;
+    }
+.header-text {
+    margin: -9% 1% 1% 42%;
+    padding: 1%;
+    }
+.header-nav {
+    text-align: center;
+    padding: 1%;
+    }
+.section-text {
+    text-align: center;
+    display: block;
+    }
+.section-text > ol, li { 
+    text-align: center;
+    display: block;
+    }
+.section-text > ol > li > a > img { 
+    width: 75px;
+    height: 75px;
+    }
+.footer-nav {   
+    text-align: right;
+    }
