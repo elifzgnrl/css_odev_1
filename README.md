@@ -26,7 +26,7 @@ image dosyalarını barındırıyor.
 
 ## Ürünlerimiz
 
-![](img/Ürünlerimiz Ekran Alıntısı.PNG)
+![](img/urunlerimizEkranAlintisi.PNG)
 
 ## Hakkımızda
 
