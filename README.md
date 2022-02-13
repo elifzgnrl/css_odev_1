@@ -22,7 +22,7 @@ image dosyalarını barındırıyor.
 
 ## Ana Sayfa
 
-![](img/Ana Sayfa Ekran Alıntısı.PNG)
+![](img\Ana Sayfa Ekran Alıntısı.PNG)
 
 ## Ürünlerimiz
 
