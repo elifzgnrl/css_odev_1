@@ -47,7 +47,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruz-odev3
+cd css_odev_1
 
 code .
 
