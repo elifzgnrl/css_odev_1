@@ -1,5 +1,7 @@
 # CSS Ödev 1
 
+## Müzik Dükkanım
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin CSS konusunun ilk ödevidir. 
 
 Proje içerik olarak;
