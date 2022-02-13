@@ -20,7 +20,21 @@ style.css ve
 
 image dosyalarını barındırıyor.
 
-![](img/ekranalintisi.PNG)
+## Ana Sayfa
+
+![](Ana Sayfa Ekran Alıntısı.PNG)
+
+## Ürünlerimiz
+
+![](Ürünlerimiz Ekran Alıntısı.PNG)
+
+## Hakkımızda
+
+![](Hakkımızda Ekran Alıntısı.PNG)
+
+## İletişim
+
+![](İletişim Ekran Alıntısı.PNG)  
 
 # Installation
 
