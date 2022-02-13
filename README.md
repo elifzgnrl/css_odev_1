@@ -4,7 +4,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin CSS konusunun ilk ödevidir. 
 "Müzik Dükkanım" adlı bir web uygulaması geliştirildi ve html ve css kodları kullanıldı.
-Logo "Canva" ile kendim tarafından tasarlanmıştır ve oluşturulan uygulamada standartlaştırma plandadır.
+Logo "Canva" ile kendim tarafından tasarlanmıştır ve oluşturulan uygulamada standartlaştırma ön plandadır.
 
 Proje içerik olarak;
 
