@@ -1,4 +1,4 @@
-# HTML Ödev 3
+# CSS Ödev 1
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitim içeriğinin CSS konusunun ilk ödevidir. 
 
